@@ -1,4 +1,3 @@
-| [原作者中文教程](https://p3terx.com/archives/build-openwrt-with-github-actions.html) |
 
 # Actions RedMi-AX6000 OpenWrt
 
@@ -29,3 +28,5 @@ SSR
 ## License
 
 [MIT](https://github.com/XIMI518/OpenWrt-AX6000-firmware/blob/main/LICENSE) © [**P3TERX**](https://p3terx.com)
+
+## | [原作者中文教程](https://p3terx.com/archives/build-openwrt-with-github-actions.html) |

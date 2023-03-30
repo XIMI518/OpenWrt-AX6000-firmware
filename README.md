@@ -27,6 +27,6 @@ SSR
 
 ## License
 
-[MIT](https://github.com/XIMI518/OpenWrt-AX6000-firmware/blob/main/LICENSE) © [**P3TERX** - 原作者详细教程](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
-
-## | [原作者中文教程](https://p3terx.com/archives/build-openwrt-with-github-actions.html) |
+[MIT](https://github.com/XIMI518/OpenWrt-AX6000-firmware/blob/main/LICENSE) © [**P3TERX** - **原作者详细教程**](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
+![GitHub Stars](https://img.shields.io/github/stars/P3TERX/Actions-OpenWrt.svg?style=flat-square&label=Stars&logo=github)
+![GitHub Forks](https://img.shields.io/github/forks/P3TERX/Actions-OpenWrt.svg?style=flat-square&label=Forks&logo=github)

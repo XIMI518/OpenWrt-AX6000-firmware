@@ -2,15 +2,13 @@
 # Actions RedMi-AX6000 OpenWrt
 
 
-
-
 ## 配置文件
 
 SSR
 
 ## Credits
 
-- [Microsoft Azure](https://azure.microsoft.com)                                   
+- [Microsoft Azure](https://azure.microsoft.com) \   - [Microsoft Azure](https://azure.microsoft.com)                             
 - [GitHub Actions](https://github.com/features/actions)
 - [OpenWrt](https://github.com/openwrt/openwrt)                                    
 - [Lean's OpenWrt](https://github.com/coolsnowwolf/lede)
@@ -25,7 +23,7 @@ SSR
 
 ## License
 
-[MIT](https://github.com/XIMI518/OpenWrt-AX6000-firmware/blob/main/LICENSE) © [**P3TERX** - **原作者详细教程**](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
+[MIT](https://github.com/XIMI518/OpenWrt-AX6000-firmware/blob/main/LICENSE) © [**P3TERX** - **原作者中文教程**](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 
 [![LICENSE](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square&label=LICENSE)](https://github.com/XIMI518/OpenWrt-AX6000-firmware/blob/main/LICENSE)
 ![GitHub Stars](https://img.shields.io/github/stars/P3TERX/Actions-OpenWrt.svg?style=flat-square&label=Stars&logo=github)

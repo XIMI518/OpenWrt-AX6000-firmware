@@ -8,7 +8,7 @@ SSR
 
 ## Credits
 
-- [Microsoft Azure](https://azure.microsoft.com) | - [Microsoft Azure](https://azure.microsoft.com)                             
+- [Microsoft Azure](https://azure.microsoft.com) | * - [Microsoft Azure](https://azure.microsoft.com)                             
 - [GitHub Actions](https://github.com/features/actions)
 - [OpenWrt](https://github.com/openwrt/openwrt)                                    
 - [Lean's OpenWrt](https://github.com/coolsnowwolf/lede)
